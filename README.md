@@ -3,7 +3,7 @@
 - Nombre : Jorge Alberto Ortiz Valdez
 - Correo: ja.ov@outlook.com
 
-## Actividad 1
+## Actividad 2
 - p01-hola-mundo
 - p02-area-circulo
 - p03-area-triangulo
