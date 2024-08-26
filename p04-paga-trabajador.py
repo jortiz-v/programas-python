@@ -1,4 +1,4 @@
-# p04-paga-trabajador - Calcula la paga de un trabajador
+# p04-paga-trabajador - Calcula la paga de un trabajador.
 
 print("Calculando la paga de un trabajador : \n")
 

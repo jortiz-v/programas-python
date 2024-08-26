@@ -1,4 +1,4 @@
-# p03-area-triangulo - Calcula el area de un triangulo
+# p03-area-triangulo - Calcula el area de un triangulo.
 
 print("Calculando el area de un traingulo")
 print("Dame la base y la altura separados por un enter")

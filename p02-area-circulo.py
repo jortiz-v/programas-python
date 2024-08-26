@@ -1,4 +1,4 @@
-#p02-area-circulo - Calcula el area de un circulo 
+#p02-area-circulo - Calcula el area de un circulo. 
 
 import math
 

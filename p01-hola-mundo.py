@@ -1,4 +1,4 @@
-# P01-hola-mundo - Recibe datos del usuario y los imprime en pantalla 
+# P01-hola-mundo - Recibe datos del usuario y los imprime en pantalla. 
 
 nombre = input("Dame tu nombre: ")
 edad = int(input("Edad: "))
