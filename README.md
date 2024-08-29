@@ -22,3 +22,9 @@
 - p12-volumen-cilindro
 - p13-calculo-tiempo
 - p14-numero-suerte
+
+## Actividad 4
+- p15-verificar-numero
+- p16-verificar-suma
+- p17–convertir-temperaturas
+- p18-paga-trabajador-v2
