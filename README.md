@@ -28,3 +28,9 @@
 - p16-verificar-suma
 - p17–convertir-temperaturas
 - p18-paga-trabajador-v2
+
+## Actividad 5
+- p19-verificar-suma-2
+- p20-ley-de-newton
+- p21-aceptar-estudiante
+- p22-tipo-angulo
