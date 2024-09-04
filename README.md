@@ -34,3 +34,11 @@
 - p20-ley-de-newton
 - p21-aceptar-estudiante
 - p22-tipo-angulo
+
+## Tarea 2
+- p23-numeros-consecutivos
+- p24-numero-mayor
+- p25-dia-semana
+- p26-numeros-romanos
+- p27-calculo-notas
+- p28-aceptar-estudiante-v2
