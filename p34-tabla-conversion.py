@@ -3,6 +3,7 @@
 import os
 
 while(True):
+    
     os.system("cls")
 
     tc = 19.87

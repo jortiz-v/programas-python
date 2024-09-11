@@ -5,6 +5,7 @@ import os
 while (True):
 
     os.system("cls")
+    
     num = int(input("Dame un entero positivo ? "))
 
     while num !=1:

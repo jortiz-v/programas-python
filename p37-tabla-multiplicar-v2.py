@@ -6,6 +6,7 @@ while(True):
     os.system("cls")
 
     n = int(input("Tablas de 1 n ? "))
+    
     m = int(input("Hasta donde ? "))
     t = 1
 

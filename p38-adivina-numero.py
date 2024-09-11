@@ -7,6 +7,7 @@ while(True):
 
     numero_secreto = random.randint(1,100)
     intentos = 0
+    
     while True:
         numero_ingresado = int(input("Adivina el numero secreto (1-100) "))
         intentos += 1

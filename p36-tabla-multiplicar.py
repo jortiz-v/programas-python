@@ -4,6 +4,7 @@ import os
 
 while(True):
     os.system("cls")
+    
     t = int(input("Que tabla quieres ? "))
     n = int(input("Hasta donde ? "))
 
