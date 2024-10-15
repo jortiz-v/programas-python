@@ -148,6 +148,6 @@
 - p96–trabajando-conjuntos
 - p97-operaciones-conjuntos
 
-## Tarea 6
+## Tarea 7
 - p98-personas
 - p99-numeros
