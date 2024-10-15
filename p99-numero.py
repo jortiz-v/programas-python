@@ -14,7 +14,7 @@ print("A union B ", A | B)
 print("B union C ", B | C)
 
 print("\nDiferencia:")
-print("A diferencia C ", A - C)
+print("A diferencia C ", A-C)
 
 print("\nDiferencia simetrica:")
 print("B dif simetrica C ", B ^ C)

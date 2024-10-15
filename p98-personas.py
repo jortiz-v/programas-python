@@ -6,6 +6,7 @@ A = {"Juan", "Maria", "Pedro", "Jose", "Rocio"}
 B = {"Pedro", "Juan", "Pablo", "Mateo", "Esther"}
 
 print("Conjuntos A, B")
+
 print(A,B)
 
 print("\nUnion:")
