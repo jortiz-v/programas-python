@@ -151,3 +151,6 @@
 ## Tarea 7
 - p98-personas
 - p99-numeros
+
+## Examen 02 
+- p100-segundo-examen-parcial
