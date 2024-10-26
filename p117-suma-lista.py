@@ -1,4 +1,4 @@
-# Suma una lista de numeros, usando una funcion
+# p117 - Suma una lista de numeros, usando una funcion
 
 def suma_lista(lista):
     s = 0

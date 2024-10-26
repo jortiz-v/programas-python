@@ -155,7 +155,7 @@
 ## Examen 02 
 - p100-segundo-examen-parcial
 
-## Actividad 15 Parte 1
+## Actividad 15 Funciones - Parte 1
 - p101-funcion
 - p102-funcion-parametro
 - p103-funcion-parametros
@@ -170,5 +170,16 @@
 - p112-temperatura
 - p113-suma-digitos
 - p114-factorial
-- p115-calificacion-letra
-- p116-suma-rango
+- p115-calificacion-letr
+
+## Actividad 16 Funciones - Parte 2
+- p117-suma-lista
+- p118-pares-lista
+- p119-mayor-menor
+- p120-mayores-promedio
+- p121-pares-impares
+- p122-aleatorios
+- p123-nombres
+- p124-funciones
+- p125-usa-funciones
+- p126-modulos-integrados

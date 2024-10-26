@@ -1,4 +1,4 @@
-# Dada una lista de numeros, regresar los pares
+# p118 -Dada una lista de numeros, regresar los pares
 
 def pares(lista):
     p = []

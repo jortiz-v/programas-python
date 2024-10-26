@@ -1,5 +1,3 @@
-# p119 -Dada una lista de numeros introducida por el usuario, regresar el mayor y el menor
-
 def leerdatos():
     datos=[]
     while True:
@@ -22,11 +20,11 @@ def menor(lista):
             m=n
     return m
 
-#Programa principal
-import os; os.system("cls")
-nums = leerdatos()
-print(nums)
-may = mayor(nums)
-men= menor(nums)
-print("El mayor es ", may)
-print("El menor es ", men)
+def promedio(nums):
+    s = 0
+    for n in nums:
+        s += n
+    return s / len(nums)
+
+pi = 3.1416
+gt = 9.81
