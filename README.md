@@ -202,5 +202,8 @@
 ## Tarea 9
 - p138-articulo
 
-# Actividad 18
+## Actividad 18
 - p139 - ventas
+
+## Examen 3
+- p140-tecer-examen-parcial
